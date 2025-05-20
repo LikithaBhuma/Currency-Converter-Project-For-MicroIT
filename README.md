@@ -19,3 +19,5 @@ link-https://mvnrepository.com/artifact/org.json/json -add the json .jar file to
 -You need an internet connection to fetch live rates. 
 -Make sure the currency codes are valid (e.g., USD, EUR, INR, etc.). 
 -The API allows a limited number of requests for free users.
+Output:
+![image](https://github.com/user-attachments/assets/027d2e4a-457a-4052-bac5-dc59f56dc47e)
